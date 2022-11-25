@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/2028429/Desktop/Git/AppDevII_AnnaM/TripTracker_AnnaMoscoloni/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2695" />
+        <entry key="..\:/Users/2028429/Desktop/Git/AppDevII_AnnaM/TripTracker_AnnaMoscoloni/app/src/main/res/drawable-v24/rounded_rectangle_personnal.xml" value="0.1" />
+        <entry key="..\:/Users/2028429/Desktop/Git/AppDevII_AnnaM/TripTracker_AnnaMoscoloni/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2695" />
+        <entry key="..\:/Users/2028429/Desktop/Git/AppDevII_AnnaM/TripTracker_AnnaMoscoloni/app/src/main/res/drawable/rounded_rectangle.xml" value="0.2465" />
+        <entry key="..\:/Users/2028429/Desktop/Git/AppDevII_AnnaM/TripTracker_AnnaMoscoloni/app/src/main/res/layout/activity_main.xml" value="0.2708333333333333" />
+        <entry key="..\:/Users/2028429/Desktop/Git/AppDevII_AnnaM/TripTracker_AnnaMoscoloni/app/src/main/res/layout/filter.xml" value="0.2866847826086957" />
+        <entry key="..\:/Users/2028429/Desktop/Git/AppDevII_AnnaM/TripTracker_AnnaMoscoloni/app/src/main/res/layout/fragment_trip_item.xml" value="0.5" />
+        <entry key="..\:/Users/2028429/Desktop/Git/AppDevII_AnnaM/TripTracker_AnnaMoscoloni/app/src/main/res/layout/fragment_trip_item_list.xml" value="0.3020833333333333" />
+        <entry key="..\:/Users/2028429/Desktop/Git/AppDevII_AnnaM/TripTracker_AnnaMoscoloni/app/src/main/res/menu/main_menu.xml" value="0.30104166666666665" />
+        <entry key="..\:/Users/alaur/OneDrive - John Abbott College/Desktop/Git/AppDevII_AnnaM/TripTracker_AnnaMoscoloni/app/src/main/res/drawable-v24/rounded_rectangle_personnal.xml" value="0.1685" />
+        <entry key="..\:/Users/alaur/OneDrive - John Abbott College/Desktop/Git/AppDevII_AnnaM/TripTracker_AnnaMoscoloni/app/src/main/res/drawable/rounded_rectangle_general.xml" value="0.1685" />
+        <entry key="..\:/Users/alaur/OneDrive - John Abbott College/Desktop/Git/AppDevII_AnnaM/TripTracker_AnnaMoscoloni/app/src/main/res/drawable/rounded_rectangle_uber.xml" value="0.1685" />
+        <entry key="..\:/Users/alaur/OneDrive - John Abbott College/Desktop/Git/AppDevII_AnnaM/TripTracker_AnnaMoscoloni/app/src/main/res/layout/activity_main.xml" value="0.13994565217391305" />
+        <entry key="..\:/Users/alaur/OneDrive - John Abbott College/Desktop/Git/AppDevII_AnnaM/TripTracker_AnnaMoscoloni/app/src/main/res/layout/fragment_add_trip.xml" value="0.264" />
+        <entry key="..\:/Users/alaur/OneDrive - John Abbott College/Desktop/Git/AppDevII_AnnaM/TripTracker_AnnaMoscoloni/app/src/main/res/layout/fragment_edit_trip.xml" value="0.13994565217391305" />
+        <entry key="..\:/Users/alaur/OneDrive - John Abbott College/Desktop/Git/AppDevII_AnnaM/TripTracker_AnnaMoscoloni/app/src/main/res/layout/fragment_trip_item.xml" value="0.176" />
+        <entry key="..\:/Users/alaur/OneDrive - John Abbott College/Desktop/Git/AppDevII_AnnaM/TripTracker_AnnaMoscoloni/app/src/main/res/layout/fragment_trip_item_list.xml" value="0.13994565217391305" />
+        <entry key="..\:/Users/alaur/OneDrive - John Abbott College/Desktop/Git/AppDevII_AnnaM/TripTracker_AnnaMoscoloni/app/src/main/res/menu/context_menu.xml" value="0.17683397683397684" />
+        <entry key="..\:/Users/alaur/OneDrive - John Abbott College/Desktop/Git/AppDevII_AnnaM/TripTracker_AnnaMoscoloni/app/src/main/res/menu/main_menu.xml" value="0.23487179487179488" />
+        <entry key="..\:/Users/alaur/OneDrive - John Abbott College/Desktop/Git/AppDevII_AnnaM/TripTracker_AnnaMoscoloni/app/src/main/res/menu/menu_context.xml" value="0.23487179487179488" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

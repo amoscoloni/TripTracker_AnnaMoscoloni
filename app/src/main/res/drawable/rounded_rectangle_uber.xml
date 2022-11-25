@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <shape xmlns:android="http://schemas.android.com/apk/res/android"
+        android:shape="rectangle">
+<!--        <padding-->
+<!--            android:bottom="3dp"-->
+<!--            android:left="3dp"-->
+<!--            android:right="3dp"-->
+<!--            android:top="3dp" />-->
+
+        <solid
+            android:color="@color/uber_trip_colour"
+            />
+
+        <corners
+            android:radius="10dp" />
+
+        <size
+            android:width="250dp"
+            android:height="180dp" />
+    </shape>
+
+    <!--sources: https://stackoverflow.com/questions/17823451/set-android-shape-color-programmatically#:~:text=A%20simpler%20solution%20nowadays%20would%20be%20to%20use,%28%22%23343434%22%29%2C%20PorterDuff.Mode.SRC_ATOP%29%20See%20PorterDuff.Mode%20for%20the%20available%20options.
+                https://devstudioonline.com/article/create-rounded-background-as-border-radius-in-android-layout#:~:text=Create%20rounded%20background%20as%20border%20radius%20in%20android,create%20an%20XML%20file%20in%20the%20drawable%20directory. -->
